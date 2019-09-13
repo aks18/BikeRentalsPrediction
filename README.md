@@ -27,3 +27,7 @@ There should be no errors as the code has been tested at least 5 times. If any e
 because of incorrect file paths or version difference in library loading.
 
 Thank you. Hope you like this work.
+
+# Final Result of Regression
+
+![Predicted Values vs. Actual Values Expected](https://github.com/aks18/BikeRentalsPrediction/blob/master/Plots/21_ScatterLinePlotConfInterval_pred_vs_real.png)
