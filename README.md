@@ -31,3 +31,12 @@ Thank you. Hope you like this work.
 # Final Result of Regression
 
 ![Predicted Values vs. Actual Values Expected](https://github.com/aks18/BikeRentalsPrediction/blob/master/Plots/21_ScatterLinePlotConfInterval_pred_vs_real.png)
+
+
+### Some Interesting Insights from the project
+
+## Correlation Plot of number of observations with Seasons
+![Correlation Plot with Season](https://github.com/aks18/BikeRentalsPrediction/blob/master/Plots/15_CorrelationPlotWithSeasons.png)
+
+## Correlation Plot of number of observations with Year
+![Correlation Plot with Season](https://github.com/aks18/BikeRentalsPrediction/blob/master/Plots/20_CorrelPlotYear.png)
